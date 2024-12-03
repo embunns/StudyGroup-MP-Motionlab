@@ -1,16 +1,30 @@
-# flutter_week_2
+FLUTTER OVERVIEW
+- Flutter adalah sebuah tool untuk membangun aplikasi mobile multiplatform (Android dan iOS) dengan satu codebase.
+- Dibuat menggunakan bahasa pemrograman Dart.
+- Flutter adalah SDK yang mengompilasi kode Dart menjadi kode native.
 
-A new Flutter project.
+KONSEP WIDGET
+- Widget adalah elemen dasar dalam Flutter yang digunakan untuk membangun UI.
+- Setiap elemen visual di Flutter, seperti tombol, teks, layout, dan animasi, adalah widget.
+- Flutter menggunakan widget tree, di mana widget memiliki hubungan parent-child.
 
-## Getting Started
+CONTOH WIDGET PENTING
+- MaterialApp: Root widget untuk implementasi desain Material Design.
+- Scaffold: Kerangka visual untuk setiap halaman.
+- Widget umum seperti:
+      ~ SafeArea
+      ~ Text
+      ~ Container
+      ~ Icon
+      ~ Image
+      ~ Button
 
-This project is a starting point for a Flutter application.
+WIDGET LAYOUTING
+- Widget untuk pengaturan tata letak, seperti:
+- Column: Untuk menyusun widget secara vertikal.
+- Row: Untuk menyusun widget secara horizontal.
+- Alignment Property: Mengatur posisi widget dalam layout.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+STRUKTUR PROYEK FLUTTER
+- Mengorganisir widget menjadi hierarki yang jelas (widget tree).
+- Konsep pohon widget memudahkan pengelolaan elemen UI.
