@@ -1,4 +1,4 @@
-Local Storage
+**Local Storage**
 Local Storage adalah metode untuk menyimpan data secara permanen di perangkat pengguna. Local Storage sangat berguna untuk aplikasi yang tidak memerlukan koneksi internet secara terus-menerus atau untuk aplikasi yang melakukan sebagian besar operasinya di perangkat pengguna.
 
 Jenis-Jenis Local Storage di Flutter
