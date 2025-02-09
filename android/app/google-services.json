@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082345528400",
+    "project_id": "motiontodo8-97322",
+    "storage_bucket": "motiontodo8-97322.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082345528400:android:66cc2574b64a8d46848555",
+        "android_client_info": {
+          "package_name": "com.example.week8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmVo_Ynkv8M6Lvx4LBkY-A1ZWwU9N9E7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
